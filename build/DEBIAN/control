@@ -1,0 +1,11 @@
+Package: hollow
+Name: Hollow (Beta)
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: digidude512 <digidude512@ig33kstas.com>
+Depends: snowboard
+Author: Evelyn
+Section: Themes
+Priority: optional
+Icon: https://ellekit.space/logo.png
+Description: Hollow for Rootless

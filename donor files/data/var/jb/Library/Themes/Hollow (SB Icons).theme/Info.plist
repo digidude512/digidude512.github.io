@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FuzzyBundleIdentifiers</key>
+	<array>
+		<string>org.coolstar.odyssey</string>
+		<string>science.xnu.undecimus</string>
+		<string>com.rileytestut.AltStore</string>
+		<string>com.rileytestut.Delta</string>
+		<string>com.amazon.Amazon</string>
+		<string>com.odysseyteam.taurine</string>
+	</array>
+	<key>PackageName</key>
+	<string>Hollow</string>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>20</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>0</integer>
+		<key>ShadowColor</key>
+		<string>black</string>
+		<key>TextColor</key>
+		<string>white</string>
+		<key>TextYoffset</key>
+		<integer>10</integer>
+	</dict>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>0</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>0</integer>
+		<key>ShadowColor</key>
+		<string>black</string>
+		<key>TextYoffset</key>
+		<integer>-4</integer>
+		<key>TextColor</key>
+		<string>white</string>
+	</dict>
+	<key>IB-MaskIcons</key>
+	<true/>
+</dict>
+</plist>
+0.0</real>
+		<key>TextColor</key>
+		<string>white</string>
+		<key>TextYoffset</key>
+		<real>-4</real>
+	</dict>
+	<key>CalendarIconDayStyle</key>
+	<string>padding: 0px 0px 0px 0px; color:#fff5f5; font-size: 8px; 
+	text-shadow: #8e1f1f 0px -1px 4px</string>
+	
+
+    <key>PackageName</key>
+	<string>Hollow</string>
+	<key>ThemeType</key>
+	<string>Icons</string>
+    <key>IB-MaskIcons</key>
+    <true/>
+</dict>
+</plist>
