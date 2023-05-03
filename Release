@@ -3,6 +3,6 @@ Label: enz0
 Suite: stable
 Version: 1.0
 Codename: ios
-Architecture: iphoneos-arm64
+Architecture: all
 Components: main
 Description: StylesBeyond Tester
